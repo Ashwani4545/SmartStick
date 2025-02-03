@@ -48,3 +48,20 @@ Pi Camera	CSI Port
 GPS Module (NEO-6M)	UART (Tx → GPIO 14, Rx → GPIO 15)
 Speaker	USB/3.5mm Jack
 Microphone	USB/3.5mm Jack
+
+Features of Smart Blind Stick
+✔️ Real-time Obstacle Detection – Alerts user via buzzer/vibration.
+✔️ AI-Based Object Recognition – Identifies objects using OpenCV & YOLOv3.
+✔️ Voice Guidance – Provides spoken alerts via Google Text-to-Speech (gTTS).
+✔️ GPS Location Tracking – Fetches user's real-time location.
+✔️ Emergency Alerts – Sends location via SMS/WhatsApp.
+✔️ Low Power Consumption – Runs on a portable power bank.
+
+Future Enhancements
+🔹 Integration with Google Maps – Provides step-by-step navigation.
+🔹 Obstacle Type Detection – Detects and classifies obstacles.
+🔹 Machine Learning for Smarter AI – Learns user behavior and improves assistance.
+🔹 Mobile App Integration – Caregivers can track the blind user's location.
+
+Conclusion
+The Smart Blind Stick using Raspberry Pi is a life-changing assistive technology for visually impaired individuals. With AI-based vision, GPS, and voice guidance, this system greatly enhances independent navigation.
